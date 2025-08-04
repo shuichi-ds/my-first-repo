@@ -1,2 +1,13 @@
-# my-first-repo
-My first repository. Learning Python and Data Science toward freelance work in 2026.
+# はじめまして
+
+このリポジトリは、私のGitHub最初のプロジェクトです。
+
+## 自己紹介
+- 名前：髙久 修一
+- 2026年4月にデータサイエンス分野で個人事業主として開業予定
+- Pythonとデータ分析の学習を日々継続中
+- 興味分野：データ可視化、自動化スクリプト、業務改善
+
+## このリポジトリの目的
+- 学習の進捗を記録
+- 作成したサンプルコードやノートブックの共有
