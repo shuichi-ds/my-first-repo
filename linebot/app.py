@@ -79,7 +79,7 @@ def on_message(event: MessageEvent):
             else:
                 line_bot_api.reply_message(
                     event.reply_token,
-                    TextSendMessage(text="未対応のコマンドです（#満席 / #空席 / #やや混雑 / #休業）")
+                    TextSendMessage(text="未対応のコマンドです（#満席 / #空席 / #やや混雑 / #休業 / #貸切 / #再開 / #閉店）")
                 )
         return
 
